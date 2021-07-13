@@ -31,8 +31,12 @@ export const generators = [
   { url: "https://source.unsplash.com/800x800/?monkey", weight: 1 },
   { url: "https://source.unsplash.com/800x800/?pirate", weight: 1 },
   { url: "https://source.unsplash.com/800x800/?anarchy", weight: 1 },
-  { url: "https://source.unsplash.com/800x800/?alcohol", weight: 1 },
+  { url: "https://source.unsplash.com/800x800/?rum", weight: 1 },
   { url: "https://source.unsplash.com/800x800/?pony", weight: 1 },
+  { url: "https://source.unsplash.com/800x800/?gold", weight: 1 },
+  { url: "https://source.unsplash.com/800x800/?unicorn", weight: 1 },
+  { url: "https://source.unsplash.com/800x800/?parrot", weight: 1 },
+  { url: "https://source.unsplash.com/800x800/?riot", weight: 1 },
 ];
 
 export default claims;
