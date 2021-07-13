@@ -25,6 +25,36 @@ export const claims = [
   "Máme už dost nekonečných korupčních kauz. Po volbách s nimi zatočíme.",
   "Místo jednolitých polí pestrá krajina.",
   "je čas vyrazit pomoci na jižní moravu!",
+  /* 2017 */
+  "Konopí místo řepky",
+  "Vyšší kvalita za méně peněz",
+  "Bráníme svobodu Internetu",
+  "Omezíme daňové ráje",
+  "Odkryjeme vlastníky nejen v Karibiku",
+  "Zvýšíme poplatky za těžbu národního bohatství",
+  "Zlegalizujeme konopí a zdaníme jeho prodej",
+  "Zrušíme nadvládu OSA nad umělci",
+  "Dáme obcím možnost zvýšit daně z dlouhodobě neobydlených bytů",
+  "Zavedeme moderní legislativu pro sdílenou ekonomiku",
+  "Ohlídáme hlídače",
+  "Konec obchodu s chudobou",
+  "Podporujeme sdílenou ekonomiku",
+  "Přestaneme házet podnikatelům klacky pod nohy",
+  "Podpoříme lepší zajištění majetku trestně stíhaných",
+  "Prosadíme judikáty na Internetu",
+  "Podpoříme alternativní tresty s přínosem pro společnost",
+  "Podpoříme kariérní růst policistů",
+  "Dáme peníze na větší automatizaci trestního řízení",
+  "Platné zákony o držení zbraní považujeme za vyvážené",
+  "Podpoříme ve školách více svobodného software",
+  "Chceme dostupná léčiva a pomůcky za jasnou cenu",
+  "Došlápneme si na farmaceutické firmy, které korumpují lékaře",
+  "Ochráníme zahrádkářské osady před tlakem developerů",
+  "Firmám, které půdu znehodnocují, odebereme dotace",
+  "Strom je klimatizační jednotka",
+  "Prosadíme pokračování výměny starých uhelných kotlů a kamen",
+  "Využijeme potenciál bioodpadů a rozšíříme kompostování",
+
 ];
 
 export const generators = [
@@ -42,6 +72,8 @@ export const generators = [
   { url: "https://source.unsplash.com/800x800/?gorilla", weight: 1 },
   { url: "https://source.unsplash.com/800x800/?meerkat", weight: 3 },
   { url: "https://source.unsplash.com/800x800/?hedgehog", weight: 2 },
+  { url: "https://source.unsplash.com/800x800/?protest", weight: 2 },
+  { url: "https://source.unsplash.com/800x800/?dump", weight: 2 },
 ];
 
 export default claims;
