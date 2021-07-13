@@ -37,6 +37,8 @@ export const generators = [
   { url: "https://source.unsplash.com/800x800/?unicorn", weight: 1 },
   { url: "https://source.unsplash.com/800x800/?parrot", weight: 1 },
   { url: "https://source.unsplash.com/800x800/?riot", weight: 1 },
+  { url: "https://source.unsplash.com/800x800/?lgbt", weight: 1 },
+  { url: "https://source.unsplash.com/800x800/?refugee", weight: 1 },
 ];
 
 export default claims;
